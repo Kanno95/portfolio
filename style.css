@@ -47,15 +47,12 @@ header {
 .about__explanation {
     text-align: center;
 }
-.about__icon {
-    margin: 3vh 0 3vh 0;
-}
-.about__icon__item {
+.about__item__content__svg {
     fill: #fff;
     height: 100px;
     width: 100px;
 }
-.about__box {
+.about__item {
     display: flex;
     justify-content: space-around;
     margin: 2vh 0 4vh 0;
